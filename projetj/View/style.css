@@ -1,0 +1,13 @@
+body{
+	background-color:#AEA8D3;
+}
+
+#separateur,#menu{
+	border:1px solid black;
+}
+#menu{
+	background-color: white;
+}
+ul li{
+	list-style-type: none;
+}
